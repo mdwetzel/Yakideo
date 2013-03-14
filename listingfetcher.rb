@@ -1,5 +1,4 @@
-class ListingFetcher
-  
+class ListingFetcher  
   def initialize
   end
 
