@@ -9,6 +9,7 @@ class Mailer
 
     Mail.defaults do
       delivery_method :smtp, options
+      
     end
   end
 
