@@ -11,6 +11,7 @@ class ListingFetcher
       listings << listing
     end
     # Delete the 'next 100 postings' entry.
+    
     listings.pop
     listings
   end
